@@ -1,1 +1,1 @@
-# TED_Talk_repo
+# TED_Talks
